@@ -1,7 +1,9 @@
 # Investview (Investment Calculator)
 
 Welcome to the Investment Calculator App! This application helps users calculate potential returns on their investments based on various parameters like initial investment, interest rate, and time period.
-live: https://investview.netlify.app/
+
+### live: 
+https://investview.netlify.app/
 
 ## Features
 
