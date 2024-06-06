@@ -27,4 +27,4 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/mirodz21/investmentcalculator.git
