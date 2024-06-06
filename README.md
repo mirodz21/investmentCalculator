@@ -42,14 +42,7 @@ Ensure you have the following installed on your local machine:
    
 ### Running the App
 
-To start the development server, use the following command:
-
+  To start the development server, use the following command:
    ```bash
    ng serve
-
-### Usage
-
-Open the app in your web browser.
-Enter the initial investment amount, interest rate, and time period.
-Select the compounding period.
-Click "Calculate" to see the future value of your investment.
+   
